@@ -1,0 +1,13 @@
+h1{
+    font-size: 60px !important;
+}
+
+#container{
+border-color: aqua;
+border-width: 10px;
+}
+
+body{
+    background-size:cover;
+    background-position:center;
+}
